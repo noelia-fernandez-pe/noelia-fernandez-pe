@@ -3,7 +3,7 @@
 ### Soy profesional de la banca, con más de 15 años de experiencia en el sector;  con muchos miedos e ilusiones decidí, hace unos meses, reorientar mi carrera hacia el mundo del Big Data.
 
 - 🌱 Actualmente estoy finalizando el Máster de Experto en Big Data Analytics en Datahack.
-¡¡¡¡ R, Python 🐍, Machine Learning, Visualización (con Power BI, Python, Carto, Grafos), NoSql, Hadoop, Spark !!!!
+- 🚀 Preparada para crecer en ... ¡¡¡¡ R, Python 🐍, Machine Learning, Visualización (con Power BI, Python, Carto, Grafos), NoSql, Hadoop, Spark !!!!
 - 👯 Estoy buscando el comenzar laboralmente en este mundo.
 - 💬 Pregúntame lo que quieras
 - 📫 Contáctame: noafdad@gmail.com
@@ -18,5 +18,5 @@
 
 
 <p align="center">
-<a  href="https://www.linkedin.com/in/noelia-fernández-pe"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-D02929?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a  href="https://www.linkedin.com/in/noelia-fernández-pe"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
