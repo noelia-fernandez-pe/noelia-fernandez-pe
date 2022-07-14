@@ -8,10 +8,11 @@
 - 💬 Pregúntame lo que quieras
 - 📫 Contáctame: noafdad@gmail.com
 - 📍  Vivo en Ferrol, España.
-- ⚡ Fun fact: ...
+- ⚡ Dato curioso ... el orden me da paz.
 -->
 -->
 -->
+<h2>Profundizanco en...</h2>
 <a  href="#"><img  src="https://img.shields.io/badge/-Python-0D1117?style=rounded-square&logo=python&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/Git-0D1117.svg?style=rounded-square&logo=git&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=D02929"></a>
