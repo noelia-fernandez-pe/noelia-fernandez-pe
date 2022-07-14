@@ -8,7 +8,7 @@
 - 👀 Estoy buscando el comenzar laboralmente en este mundo.
 - 💬 Pregúntame lo que quieras
 - 📫 Contáctame: noafdad@gmail.com
-- 📍  Vivo en Ferrol, España.
+-  📍  Vivo en Ferrol, España.
 - ⚡ Dato curioso ... el orden me da paz.
 
 
