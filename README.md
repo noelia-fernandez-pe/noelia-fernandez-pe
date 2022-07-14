@@ -4,7 +4,7 @@
 
 - 🌱 Actualmente estoy finalizando el Máster de Experto en Big Data Analytics en Datahack.
 - 👨‍🎓 Licenciada en Administración y Dirección de Empresas.
-- 🚀 Preparada para crecer en ... ¡¡¡¡ 
+- 🚀 Preparada para crecer en ...  
       - R,
       - Python 🐍,
       - Machine Learning, Visualización (con Power BI, Python, Carto, Grafos), NoSql, Hadoop, Spark !!!!
