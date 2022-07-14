@@ -17,5 +17,4 @@
 </div>
 <br/>
 <p align="center">
-<img src="https://www.linkedin.com/in/noelia-fernández-pe/>
-</p>
+<a  href="https://www.linkedin.com/in/noelia-fernández-pe"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-D02929?style=for-the-
