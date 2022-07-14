@@ -15,8 +15,8 @@
 <a  href="#"><img  src="https://img.shields.io/badge/-Python-0D1117?style=rounded-square&logo=python&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/Git-0D1117.svg?style=rounded-square&logo=git&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=D02929"></a>
-<br/>
+
 
 <p align="center">
-<a  href="https://www.linkedin.com/in/noelia-fernández-pe"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-D02929?style=for-the-
+<a  href="https://www.linkedin.com/in/noelia-fernández-pe"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-D02929?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
