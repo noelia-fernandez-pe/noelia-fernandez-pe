@@ -1,8 +1,5 @@
 ### Hola 👋, soy Noelia!!
 
-<!--
-**noelia-fernandez-pe/noelia-fernandez-pe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Soy profesional de la banca, con más de 15 años de experiencia, que decidí hace unos meses reorientar mi carrera hacia el mundo del Big Data.
 
 - 🌱 Acrtualmente estoy finalizando el Máster de Experto en Big Data Analytics en Datahack.
