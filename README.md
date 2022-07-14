@@ -3,6 +3,7 @@
 ### Soy profesional de la banca, con más de 15 años de experiencia en el sector;  con muchos miedos e ilusiones decidí, hace unos meses, reorientar mi carrera hacia el mundo del Big Data.
 
 - 🌱 Actualmente estoy finalizando el Máster de Experto en Big Data Analytics en Datahack.
+- 👨‍🎓 Licenciada en Administración y Dirección de Empresas.
 - 🚀 Preparada para crecer en ... ¡¡¡¡ R, Python 🐍, Machine Learning, Visualización (con Power BI, Python, Carto, Grafos), NoSql, Hadoop, Spark !!!!
 - 👯 Estoy buscando el comenzar laboralmente en este mundo.
 - 💬 Pregúntame lo que quieras
