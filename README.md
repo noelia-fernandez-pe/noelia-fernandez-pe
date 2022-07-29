@@ -12,7 +12,7 @@
       - NoSql.    
       - Hadoop.    
       - Spark.     
-- 👀 Estoy buscando el comenzar laboralmente en este mundo.
+- 👀 Estoy buscando comenzar laboralmente en este mundo.
 - 💬 Pregúntame lo que quieras
 - 📫 Contáctame: noafdad@gmail.com
 -  📍  Vivo en Ferrol, España.
